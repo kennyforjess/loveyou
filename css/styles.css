@@ -1,6 +1,12 @@
 html, body {
   height: 100%;
   margin: 10px;
+  font-family: 'Montserrat';
+}
+
+a, a:hover {
+  text-decoration: none;
+  color: black;
 }
 
 .navbar {
@@ -13,7 +19,7 @@ html, body {
 }
 
 .childNav p {
-  font-size: 12px;
+  font-size: 13px;
   color: black;
   border-bottom: 2px solid transparent;
   padding-bottom: 10px;
@@ -37,30 +43,63 @@ html, body {
   background: lightcoral;
   height: 100%;
   border-radius: 5px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 24px;
+}
+
+.box1 a:hover {
+  -webkit-animation: bounce 1s;
 }
 
 .box2 {
   background: lightblue;
   height: 100%;
   border-radius: 5px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 24px;
+  text-align: center;
 }
 
 .box3 {
   background: lightgreen;
   border-radius: 5px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 24px;
+  text-align: center;
 }
 
 .box4 {
   background: lightgray;
   border-radius: 5px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 24px;
+  text-align: center;
 }
 
 .box5 {
   background: lightyellow;
   border-radius: 5px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 24px;
+  text-align: center;
 }
 
 .box6 {
   background: lightseagreen;
   border-radius: 5px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 24px;
+  text-align: center;
 }
