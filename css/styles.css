@@ -1,10 +1,12 @@
-html, body {
+html,
+body {
   height: 100%;
   margin: 10px;
-  font-family: 'Montserrat';
+  font-family: "Montserrat";
 }
 
-a, a:hover {
+a,
+a:hover {
   text-decoration: none;
   color: black;
 }
@@ -102,4 +104,7 @@ a, a:hover {
   align-items: center;
   font-size: 24px;
   text-align: center;
+}
+
+.toyou {
 }
