@@ -102,3 +102,21 @@ a:hover {
   font-size: 24px;
   text-align: center;
 }
+
+.memories {
+  text-align: center;
+}
+
+.pantunTitle {
+  text-align: center;
+}
+
+.pantun1 {
+  width: 100%;
+  text-align: left;
+}
+
+.pantun2 {
+  text-align: right;
+  width: 100%;
+}
